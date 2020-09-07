@@ -1,2 +1,14 @@
-# Natural_Language_Processing
-2020-2 Fall semester AI Track
+# 자연어 처리 LOG
+
+## 2020-Fall-semester 
+
+## WEEK 1(09.01~09.07)
+### 강의 동영상
+- 강의 소개 및 실습도구 소개
+- 자연어처리 소개
+### 과제
+- 구글 설문지
+- AWS 인스턴스 생성
+### 개인공부
+- week1.md 로 lecture note에 추가(09.07)
+
