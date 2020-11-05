@@ -2,21 +2,5 @@
 
 ## 2020-Fall-semester 
 
-## WEEK 1(09.02)
-### 강의 동영상
-- 강의 소개 및 실습도구 소개
-- 자연어처리 소개
-### 과제
-- 구글 설문지
-- AWS 인스턴스 생성
-### 개인공부
-- week1.md 로 lecture note에 추가(09.07)
-
-## WEEK 2(09.09)
-### 강의 동영상
-- 자연어처리소개2_01
-- 자연어처리소개2_02
-- 자연어처리소개2_03
-### 퀴즈
-- week2 QUIZ
-### 개인 공부
+## 9주차 과제
+1. [형태소 분석 + 품사 태깅] (https://github.com/jiminAn/Natural_Language_Processing/blob/master/assignment/week9.ipynb)
